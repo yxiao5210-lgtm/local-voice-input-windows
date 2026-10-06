@@ -6,7 +6,7 @@ Windows 11 x64 的本机语音输入工具。首次使用下载安装器，之�
 
 - [最新安装包与对应源码](https://github.com/yxiao5210-lgtm/local-voice-input-windows/releases/latest)
 - 普通使用者下载 `LocalVoiceInput.Windows-win-x64-Setup.exe`；不需要安装 Python。
-- 开发者下载版本附带的 `Windows_版本_源码包.zip`，其中包含完整产品源码、视觉资源、构建/发布脚本、许可证和修改教程。GitHub 自动生成的 Source code 压缩包只包含本发布仓库资料，请使用专用源码包。
+- 开发者下载版本附带的 `LocalVoiceInput.Windows-版本-Source.zip`，其中包含完整产品源码、视觉资源、构建/发布脚本、许可证和修改教程。GitHub 自动生成的 Source code 压缩包只包含本发布仓库资料，请使用专用源码包。
 
 先在记事本点击输入位置，轻按右 Alt 开始，说完再按一次停止；Esc 取消。文字检查后自己发送。程序不自动发送，不自动保存录音或正文。
 
